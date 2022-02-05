@@ -1,0 +1,20 @@
+{
+    "short_name": "Track",
+    "name": "UoM Track",
+    "icons": [
+      {
+        "src": "https://cdn.bleacherreport.net/images/team_logos/328x328/track_and_field.png",
+        "type": "image/png",
+        "sizes": "192x192"
+      },
+      {
+        "src": "https://e7.pngegg.com/pngimages/846/521/png-clipart-sprint-100-metres-track-field-india-italy-others-game-angle.png",
+        "type": "image/png",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/",
+    "background_color": "white",
+    "display": "standalone",
+    "description": "Uom Track"
+  }
