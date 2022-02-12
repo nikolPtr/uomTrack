@@ -43,4 +43,3 @@ window.addEventListener('appinstalled', function () {
     console.log('PWA was installed');
 });
 
-var myApp = {};
