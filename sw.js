@@ -3,6 +3,7 @@ self.addEventListener('install', function (event) {
     event.waitUntil(
         caches.open('trackCss').then(function(cache) {
             return cache.addAll([
+                '/uomTrack/',
                 '/uomTrack/index.html',
                 '/uomTrack/common.js',
                 '/uomTrack/manifest.json',
