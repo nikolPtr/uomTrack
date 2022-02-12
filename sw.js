@@ -7,7 +7,7 @@ self.addEventListener('install', function (event) {
                 '/common.js',
                 '/manifest.json',
                 '/track.js',
-                '/trackCss.css',
+                '/trackCss.css'
                 
             ]);
         })
