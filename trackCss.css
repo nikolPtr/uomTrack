@@ -8,6 +8,10 @@ body {
     background-color: rgba(241, 253, 243, 0.979);
 }
 
+.install {
+    justify-content: right;   
+}
+
 .menu ul {
     list-style: none;
     margin: 0;
