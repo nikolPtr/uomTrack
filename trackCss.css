@@ -49,9 +49,7 @@ label{
 }
 header{
     text-decoration: none;
-    display: flex;
-    text-align: center;
-    justify-content: center;
+    position: fixed;
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     font-size: 40px;
 }
