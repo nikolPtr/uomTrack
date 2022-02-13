@@ -8,9 +8,12 @@ body {
     background-color: rgba(241, 253, 243, 0.979);
 }
 
-.install {
-    justify-content: right;   
+#install:hover {
+    background-color: rgb(131, 43, 43);
+    color: rgb(250,250,250);
+    cursor: pointer;
 }
+
 
 .menu ul {
     list-style: none;
