@@ -19,7 +19,7 @@ self.addEventListener('fetch', function (event) {
     console.log('The service worker is serving the asset.');
     event.respondWith(
         caches.match(event.request).then(function (response) {
-            return response || caches.match('/uomTrack/index.html');
+            return response || caches.match('/index.html');
         })
     );
 });
